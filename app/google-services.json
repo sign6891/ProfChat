@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520060551330",
+    "firebase_url": "https://profchat-b0dce.firebaseio.com",
+    "project_id": "profchat-b0dce",
+    "storage_bucket": "profchat-b0dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520060551330:android:9544f87533b83a18add7fb",
+        "android_client_info": {
+          "package_name": "com.example.profchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520060551330-f7li2fcfeqbc2ienhphm2hebrpdeo2rg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.profchat",
+            "certificate_hash": "54bcee8e4c0513654d3ebc6ce29018c5c692a271"
+          }
+        },
+        {
+          "client_id": "520060551330-ugb4qk1dbum2pu86k6gqfuha3eq7l9n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwp1gQcC3gVWoyu15-nZFX_K2iRvO4LsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520060551330-ugb4qk1dbum2pu86k6gqfuha3eq7l9n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
